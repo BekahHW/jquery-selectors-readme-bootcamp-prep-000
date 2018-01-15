@@ -5,5 +5,6 @@ $('p')
 }
 
 function lastImageSelector(){
-  
+  $('img:last')
+
 }
